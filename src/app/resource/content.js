@@ -23,9 +23,9 @@ export const about = {
     hobbiesTitle: "< Hobbies />",
     description: (
         <>
-            I'm a newbie in coding. I think learning many coding languages ​​isn't easy, 
-            but it's not too hard if you love it, right? So I'll keep learning til I become a software engineer!
-            If you read this and have any ideas, knowledge, etc. that you think I don't know, 
+            I&apos;m a newbie in coding. I think learning many coding languages ​​isn&apos;t easy, 
+            but it&apos;s not too hard if you love it, right? So I&apos;ll keep learning til I become a software engineer!
+            If you read this and have any ideas, knowledge, etc. that you think I don&apos;t know, 
             please feel free to tell me. I love learning.
         </>
     ),
