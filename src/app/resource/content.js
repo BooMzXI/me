@@ -38,5 +38,6 @@ export const about = {
         {img: "/hobbies/roblox.png" , alt: "Roblox Image", title: "Roblox",},
         {img: "/hobbies/pb.png" , alt: "PB Image", title: "PB",},
         {img: "/hobbies/minecraft.jpg" , alt: "Minecraft Image", title: "MC",},
+        {img: "/hobbies/honkai.png" , alt: "Honkai Image", title: "hsr",},
     ]
 }
