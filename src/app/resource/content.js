@@ -6,14 +6,39 @@ import { FaDiscord } from "react-icons/fa";
 
 export const personal = 
     {
-        title: "<Hi! I'm Patipol/>",
+        title: "Boom_Patipol",
         description: "This is my website feel free to explore here!",
         social: [
-            {icon: <InstagramIcon/>, title: "Instragram",href:"https://www.instagram.com/patii0x/",},
-            {icon: <FacebookIcon/>, title: "Facebook",href:"https://www.facebook.com/patipon.pongsawat/"},
-            {icon: <GitHubIcon/>, title: "Github",href:"https://github.com/BooMzXI"},
-            {icon: <FaDiscord/>, title: "Discord",href:"https://discord.com/users/573794481686446081"},
-            {icon: <SiCodewars/>, title: "Codewar", href:"https://www.codewars.com/users/PatipolCom-Engineering"},
+            {
+                icon: <InstagramIcon/>, 
+                title: "Instragram",
+                href:"https://www.instagram.com/patii0x/",
+                hoverColorClass: "hover:bg-[#fc03a9]! hover:shadow-[0_0_11px_#fc03a9]!"
+            },
+            {
+                icon: <FacebookIcon/>, 
+                title: "Facebook",
+                href:"https://www.facebook.com/patipon.pongsawat/",
+                hoverColorClass: "hover:bg-[#037ffc]! hover:shadow-[0_0_11px_#037ffc]!"
+            },
+            {
+                icon: <GitHubIcon/>, 
+                title: "Github",
+                href:"https://github.com/BooMzXI",
+                hoverColorClass: "hover:bg-[#000000]! hover:shadow-[0_0_11px_#000000]!"
+            },
+            {
+                icon: <FaDiscord/>, 
+                title: "Discord",
+                href:"https://discord.com/users/573794481686446081",
+                hoverColorClass: "hover:bg-[#5203fc]! hover:shadow-[0_0_11px_#5203fc]!"
+            },
+            {
+                icon: <SiCodewars/>, 
+                title: "Codewar", 
+                href:"https://www.codewars.com/users/PatipolCom-Engineering",
+                hoverColorClass: "hover:bg-[#ff4d4d]! hover:shadow-[0_0_11px_#ff4d4d]!"
+            },
         ],
     }
 
@@ -30,7 +55,7 @@ export const about = {
         </>
     ),
     education: "King Mongkut's University Of Technology Thonburi (KMUTT)",
-    bachelor: "Bachelor of Engineering in Computer Engineering (CPE)",
+    bachelor: "Bachelor of Engineering in Copy and Paste Engineering (CPE)",
     hobbies: 'Sleep, Coding, Reading and Play game.',
     gameDiscription: "ปล.มาชวนเล่นได้นะ เหงาสุดๆTT  -->",
     game: [
